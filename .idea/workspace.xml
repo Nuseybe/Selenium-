@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc373d2e-0e14-4182-8c8e-ac8df354ee58" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SeleniumIntroduction" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SydwqjcetL78gUgxonqK1IFB1Y" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/test/java/com/techtorial/Utils" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.techtorial.Tests.TestNGPractice" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test.java.com.techtorial" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.iFrame.iframe">
+    <configuration name="ReadFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.Utils.ReadFromFile" />
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorial.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonPrices.iphoneSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorial.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorial.Utils" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.Utils.AmazonPrices" />
+      <option name="METHOD_NAME" value="iphoneSearchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Amazon.getAmazonPrices" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techtorial.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techtorial.Utils" />
+      <option name="MAIN_CLASS_NAME" value="com.techtorial.Utils.Amazon" />
+      <option name="METHOD_NAME" value="getAmazonPrices" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSScriptIntro.jsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaScripExecuteIntro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaScripExecuteIntro" />
+      <option name="MAIN_CLASS_NAME" value="JavaScripExecuteIntro.JSScriptIntro" />
+      <option name="METHOD_NAME" value="jsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iFrame.iframe" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumIntroduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iFrameWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iFrameWork" />
+      <option name="MAIN_CLASS_NAME" value="iFrameWork.iFrame" />
+      <option name="METHOD_NAME" value="iframe" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.iFrame.iframe" />
+        <item itemvalue="Application.ReadFromFile" />
+        <item itemvalue="TestNG.JSScriptIntro.jsTest" />
+        <item itemvalue="TestNG.Amazon.getAmazonPrices" />
+        <item itemvalue="TestNG.AmazonPrices.iphoneSearchTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc373d2e-0e14-4182-8c8e-ac8df354ee58" name="Default Changelist" comment="" />
+      <created>1572540010180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572540010180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorial/Utils/KeyPressEventIntro.java</url>
+          <line>15</line>
+          <properties class="com.techtorial.Utils.KeyPressEventIntro" method="setup">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorial/Utils/HoverOverVerification.java</url>
+          <line>20</line>
+          <properties class="com.techtorial.Utils.HoverOverVerification" method="Hovering">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techtorial/Utils/JewelryandAccessoriesTest.java</url>
+          <line>26</line>
+          <properties class="com.techtorial.Utils.JewelryandAccessoriesTest" method="jaPage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM Test">
+
+    <test name="Parameter Test">
+        <parameter name="driverName" value="chrome"></parameter>
+
+        <classes>
+            <class name="com.techtorial.Tests.TestNGParameterPractice.OrangeHRMDataProvider">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Parameter Test1">
+        <parameter name="driverName" value="ff">
+            <classes>
+                <class name="com.techtorial.Tests.TestNGParameterPractice.OrangeHRMDataProvider">
+
+                </class>
+            </classes>
+        </parameter>
+    </test>
+</suite>
